@@ -2,7 +2,7 @@
 
 The following below link problem description 🎯
 
-🔹[Arithmetic Operators 🔗](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+🔹[Arithmetic Operators 🔗](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) <br />
 🔹[Division 🔗](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
 🔹[If-Else 🔗](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
 🔹[Loops 🔗](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)

@@ -8,3 +8,9 @@ The following below link problem description 🎯
 🔹[Loops 🔗](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) <br />
 🔹[Print Function 🔗](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) <br />
 🔹[Write a function 🔗](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) <br />
+🔹[Swap Case 🔗](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) <br />
+🔹[Nested Loops 🔗](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true) <br />
+🔹[Find the Runner-Up Score 🔗](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) <br />
+🔹[Finding the percentage 🔗](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true) <br />
+
+

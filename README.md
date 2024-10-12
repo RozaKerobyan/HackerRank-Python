@@ -12,5 +12,6 @@ The following below link problem description 🎯
 🔹[Nested Loops 🔗](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true) <br />
 🔹[Find the Runner-Up Score 🔗](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) <br />
 🔹[Finding the percentage 🔗](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true) <br />
+🔹[Lists 🔗](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) <br />
 
 

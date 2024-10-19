@@ -14,5 +14,6 @@ The following below link problem description 🎯
 🔹[Finding the percentage 🔗](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true) <br />
 🔹[Lists 🔗](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) <br />
 🔹[Strings Join and Split 🔗](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) <br />
+🔹[String Validators 🔗](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true) <br />
 
 
